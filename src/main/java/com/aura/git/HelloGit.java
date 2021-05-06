@@ -7,5 +7,6 @@ public class HelloGit {
 		System.out.println("分支1");
 		System.out.println("master");
 		System.out.println("dev");
+		System.out.println("在线更新");
 	}
 }
